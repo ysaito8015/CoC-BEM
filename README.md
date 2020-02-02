@@ -27,5 +27,7 @@
 <p><strong>Scope</strong></p>
 <p>We expect all community participants (leadership, volunteers, speakers, attendees, and other guests) to abide by this Code of Conduct at all online or in person events. Participants asked to stop a hostile or harassing behavior are expected to comply immediately. Community participants seek to learn, network and have fun. Please do so responsibly and with respect for the right of others to do likewise.</p>
 <p>Please contact organizer if you believe you have been harassed or that a harassment problem exists. Organizer will determine and carry out the appropriate course of action, and may consult with and engage other co-organizer, leaders, and legal counsel, as appropriate. Event security and/or local law enforcement may be involved, as appropriate, based on the specific circumstances. As requested, a follow-up report will be made to individuals who report being harassed.</p>
+<p><strong>Original text</strong></p>
+<p>Original text courtesy of the <a href='https://community.anitab.org/about/code-of-conduct/'>AnitaB.org</a></p>
 <p><strong>License and Attribution</strong></p>
 <p>This Code of Conduct is distributed under a <a href="http://creativecommons.org/licenses/by-sa/3.0">Creative Commons Attribution-ShareAlike license</a> and is based on works at <a href="http://opensourcebridge.org/about/code-of-conduct/">Open Source Bridge</a> and <a href="http://www.gdconf.com/codeofconduct.html">http://www.gdconf.com/codeofconduct.html</a></p>
