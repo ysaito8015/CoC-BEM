@@ -1,5 +1,7 @@
 # Bratislava English Meetup  Code of Conduct
 
+<p><strong>this meetup purpose is for communicate other English learners</strong></p>
+
 <p>We at Bratislava English Meetup believe our Community should be truly open for everyone. As such, we are committed to providing a friendly, safe, and welcoming environment for all participants, free from discrimination for any reason including on the basis of gender identity, sex, race, ethnicity, sexual orientation, disability, age, and religion.</p>
 <p>This Code of Conduct outlines our expectations for participant behavior as well as the consequences for unacceptable behavior.</p>
 <p>We invite all leadership, sponsors, volunteers, speakers, attendees, media, exhibitors, contributors, and other participants to help us realize a safe and positive community experience for everyone.</p>
